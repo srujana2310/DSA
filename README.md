@@ -2,9 +2,7 @@
 
 Name : Srujana Makarande
 
-Roll no : 32
 
-Batch : B
 
 
 ## DSA experiment list A  : - 
