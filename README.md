@@ -1,4 +1,4 @@
-# DSA-
+# Data Structure and Algorithms
 
 Name : Srujana Makarande
 
